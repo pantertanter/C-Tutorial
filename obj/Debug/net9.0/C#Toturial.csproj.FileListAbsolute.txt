@@ -1,0 +1,14 @@
+C:\Users\alexa\Documents\GitHub\C#Toturial\bin\Debug\net9.0\C#Toturial.exe
+C:\Users\alexa\Documents\GitHub\C#Toturial\bin\Debug\net9.0\C#Toturial.deps.json
+C:\Users\alexa\Documents\GitHub\C#Toturial\bin\Debug\net9.0\C#Toturial.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\C#Toturial\bin\Debug\net9.0\C#Toturial.dll
+C:\Users\alexa\Documents\GitHub\C#Toturial\bin\Debug\net9.0\C#Toturial.pdb
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.dll
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\refint\C#Toturial.dll
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.pdb
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\C#Toturial.genruntimeconfig.cache
+C:\Users\alexa\Documents\GitHub\C#Toturial\obj\Debug\net9.0\ref\C#Toturial.dll
