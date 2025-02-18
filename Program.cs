@@ -19,7 +19,51 @@ namespace HelloWorld
     
     static void Main(string[] args)
     {
-    
+        try
+        {
+            int[] myNumbers = {0, 1, 2};
+            Console.WriteLine(myNumbers[9]);
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine(e.Message);   
+        }
+        finally
+        {
+            Console.WriteLine("The 'try catch' is finished.");
+        }
+
+    static void checkAge(int age)
+    {
+        if (age < 18)
+        {
+            throw new ArithmeticException("You have to be 18 years or older to apply");
+        }
+        else
+        {
+            Console.WriteLine("You passed the age check");
+        }
+    }
+
+    try
+    {
+        checkAge(17);
+    }
+    catch (ArithmeticException e)
+    {
+        Console.WriteLine(e.Message);
+    }
+
+        /*
+        string writeText = "Hello world!";
+
+        File.WriteAllText("filename.txt", writeText);
+
+        string readtText = File.ReadAllText("filename.txt");
+        Console.WriteLine(readtText);
+        */
+
+    /*
     static void MyMethod()
     {
         Console.WriteLine("myMethod Console.WriteLine() exeuted");
@@ -102,6 +146,39 @@ namespace HelloWorld
 
     int num = (int) Days.DaysOfWeek.Friday;
     Console.WriteLine(num);
+
+    Console.WriteLine("Write a day of the week");
+    string inputDay = Console.ReadLine();
+
+        if (Enum.TryParse(inputDay, true, out Days.DaysOfWeek selectedDay))
+        {
+        switch(selectedDay)
+        {
+            case Days.DaysOfWeek.Monday:
+                Console.WriteLine("You chose: Monday");
+                break;
+            case Days.DaysOfWeek.Tuesday:
+                Console.WriteLine("You chose: Tuesday");
+                break;
+            case Days.DaysOfWeek.Wednesday:
+                Console.WriteLine("You chose: Wednesday");
+                break;
+            case Days.DaysOfWeek.Thursday:
+                Console.WriteLine("You chose: Thursday");
+                break;
+            case Days.DaysOfWeek.Friday:
+                Console.WriteLine("You chose: Friday");
+                break;
+            case Days.DaysOfWeek.Saturday:
+                Console.WriteLine("You chose: Saturday");
+                break;
+            case Days.DaysOfWeek.Sunday:
+                Console.WriteLine("You chose: Sunday");
+                break;
+    }
+        }
+
+        */
 
     /*
 

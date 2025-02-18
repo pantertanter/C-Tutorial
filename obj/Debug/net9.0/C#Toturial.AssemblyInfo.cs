@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Toturial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bdbeed8f11eab70047cb92606309097866cdcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48446981a1ed47c89f775a08a5e4e6412fc035df")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Toturial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Toturial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
